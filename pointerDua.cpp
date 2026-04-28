@@ -10,3 +10,8 @@ public:
         cout << "no induk = " << nim << endl;
     }
 };
+
+int main()
+{
+
+}
